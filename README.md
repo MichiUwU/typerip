@@ -41,6 +41,13 @@ Oct 21, 2019:
 * New, cleaner and simpler user interface
 * Fonts are automatically repaired and renamed correctly
 
+### Tutorial
+
+1. git clone https://github.com/MichiUwU/typerip
+2. cd typerip
+3. npm install
+5. npm run dev
+
 ### Screenshot
 ![Screenshot #1](https://i.imgur.com/5cyZTJ4.png)
 
